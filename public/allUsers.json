@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john@example.com",
+    "picture": "https://i.ibb.co/CnF9SBt/anastasia-vityukova-rp-F3p-Rr-E9g-unsplash.jpg",
+    "age": 30,
+    "profession": "Software Engineer",
+    "contact_number": "123-456-7890",
+    "address": "123 Main St, City, Country",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane@example.com",
+    "picture": "https://i.ibb.co/7NP3BkJ/vicky-hladynets-Rc-Ta-CHHMI0-unsplash.jpg",
+    "age": 28,
+    "profession": "Graphic Designer",
+    "contact_number": "987-654-3210",
+    "address": "456 Elm St, Town, Country",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "email": "bob@example.com",
+    "picture": "https://i.ibb.co/qy5QxTk/houcine-ncib-B4-Tj-Xn-I0-Y2c-unsplash.jpg",
+    "age": 35,
+    "profession": "Doctor",
+    "contact_number": "555-123-4567",
+    "address": "789 Oak St, Village, Country",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "email": "emily@example.com",
+    "picture": "https://i.ibb.co/CnF9SBt/anastasia-vityukova-rp-F3p-Rr-E9g-unsplash.jpg",
+    "age": 26,
+    "profession": "Teacher",
+    "contact_number": "111-222-3333",
+    "address": "101 Pine St, Hamlet, Country",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "name": "Mike Brown",
+    "email": "mike@example.com",
+    "picture": "https://i.ibb.co/7NP3BkJ/vicky-hladynets-Rc-Ta-CHHMI0-unsplash.jpg",
+    "age": 40,
+    "profession": "Lawyer",
+    "contact_number": "444-555-6666",
+    "address": "222 Cedar St, Suburb, Country",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "name": "Sara Wilson",
+    "email": "sara@example.com",
+    "picture": "https://i.ibb.co/pnLDPHF/jonathan-cooper-sj-LG3-DBOJSI-unsplash.jpg",
+    "age": 32,
+    "profession": "Marketing Manager",
+    "contact_number": "777-888-9999",
+    "address": "333 Birch St, Rural, Country",
+    "gender": "Female"
+  },
+  {
+    "id": 7,
+    "name": "David Lee",
+    "email": "david@example.com",
+    "picture": "https://i.ibb.co/CnF9SBt/anastasia-vityukova-rp-F3p-Rr-E9g-unsplash.jpg",
+    "age": 45,
+    "profession": "Engineer",
+    "contact_number": "123-987-6543",
+    "address": "444 Willow St, City, Country",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "name": "Anna Taylor",
+    "email": "anna@example.com",
+    "picture": "https://i.ibb.co/qy5QxTk/houcine-ncib-B4-Tj-Xn-I0-Y2c-unsplash.jpg",
+    "age": 29,
+    "profession": "Nurse",
+    "contact_number": "555-888-7777",
+    "address": "555 Maple St, Town, Country",
+    "gender": "Female"
+  },
+  {
+    "id": 9,
+    "name": "Kevin White",
+    "email": "kevin@example.com",
+    "picture": "https://i.ibb.co/7NP3BkJ/vicky-hladynets-Rc-Ta-CHHMI0-unsplash.jpg",
+    "age": 38,
+    "profession": "Architect",
+    "contact_number": "444-111-2222",
+    "address": "777 Redwood St, Village, Country",
+    "gender": "Male"
+  },
+  {
+    "id": 10,
+    "name": "Linda Turner",
+    "email": "linda@example.com",
+    "picture": "https://i.ibb.co/pnLDPHF/jonathan-cooper-sj-LG3-DBOJSI-unsplash.jpg",
+    "age": 27,
+    "profession": "Writer",
+    "contact_number": "999-333-5555",
+    "address": "999 Oakwood St, Suburb, Country",
+    "gender": "Female"
+  }
+]
