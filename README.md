@@ -11,4 +11,4 @@
 
 # Live Link:
 
-- https://650e6c72bef72e72c13eed64--frabjous-trifle-c3de8f.netlify.app/
+- https://650e7424cb64f67288b9fce6--frabjous-trifle-c3de8f.netlify.app/
