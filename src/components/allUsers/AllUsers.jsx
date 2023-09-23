@@ -22,7 +22,9 @@ const AllUsers = () => {
         <div className="h-[100px] md:h-[0px]"></div>
         {data.loading && <Loader></Loader>}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 md:gap-10 gap-y-10">
+          {/* map the all users */}
           {data?.users.map((user) => (
+            // singe user card here
             <UserCard key={user.id} user={user}></UserCard>
           ))}
         </div>
