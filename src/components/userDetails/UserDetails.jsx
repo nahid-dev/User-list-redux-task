@@ -12,12 +12,10 @@ const UserDetails = () => {
 
   const user = data.find((item) => item.id === userId);
 
-  console.log(user);
-
   return (
     <div className="min-h-screen">
       <ContentWrapper>
-        <div className="hidden md:block my-10">
+        <div className="pt-8 md:pt-0 md:my-10">
           <Link
             to="/"
             className="px-4 py-2 font-medium border rounded hover:border-blue-800 transition-all duration-300"

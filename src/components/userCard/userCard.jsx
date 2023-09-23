@@ -5,7 +5,7 @@ import { UserContext } from "../../contextProvider/contextProvider";
 const UserCard = ({ user }) => {
   const { setUserId } = useContext(UserContext);
   return (
-    <div className="border text-center shadow-[rgba(0,_0,_0,_0.2)_0px_60px_40px_-7px] rounded-xl my-5 md:my-10 p-5">
+    <div className="border cursor-pointer text-center shadow-[rgba(0,_0,_0,_0.2)_0px_60px_40px_-7px] rounded-xl my-5 md:my-10 p-5">
       <div className="flex flex-col items-center gap-5 ">
         <div className="h-[100px] w-[100px]  -mt-[4.5rem]">
           <img
